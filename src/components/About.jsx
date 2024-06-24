@@ -48,11 +48,15 @@ const About = () => {
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
 
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in JavaScript libraries like React and Node.js, also in
-        angular. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+I'm an enthusiastic software developer with 
+expertise in TypeScript, JavaScript, and JavaScript libraries like React, Node.js,
+ and Angular. With two years of experience as a web and mobile developer in a part-time role, and a 
+ diploma in Software Engineering from ESPRIT, I'm a quick learner with a keen interest in AI-driven solutions. 
+ I collaborate closely with clients to create efficient, scalable, and user-friendly
+  solutions that solve real-world problems. Let's work together to bring your ideas to life!
+
+
+
         </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

@@ -105,8 +105,28 @@ const technologies = [
 ];
 
 const experiences = [
+
   {
-    title: "Mobile developer Freelancer ",
+    title: "Internship (End of study) | Software Engineer, Full Stack Web/Mobile Application Developer & ML ",
+    company_name: "B2M-IT",
+    icon: meta,
+    iconBg: "#383E56",
+    date: "February 2024  - June 2024",
+    points: [
+"Developping an intelligent health platform :" ,
+"Developing a mobile health service app using React Native, Node.js, and MongoDB.",
+"Creating a dashboard with Angular, Node.js, and MongoDB.",
+"Building a web application based on machine learning to predict diseases in patients for specialists.",
+ "Implementing a CI/CD pipeline."
+
+
+
+
+
+    ],
+  },
+  {
+    title: "Part-Time Web & Mobile Developer ",
     company_name: "Parhelion",
     icon: starbucks,
     iconBg: "#383E56",
@@ -173,7 +193,7 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/firasyazid/DeltaCuisineBack-",
+    source_code_link: "https://drive.google.com/file/d/14pzzwhVW4jzNWhe0lIHkFb8RhN9SHs9J/view",
   },
 
 
@@ -202,7 +222,7 @@ const projects = [
       
     ],
     image: jobit,
-    source_code_link: "https://github.com/firasyazid/AngularProject",
+    source_code_link: "https://drive.google.com/file/d/1j-lSPOy7a6qyqEHi_oxeLQiB3iF64so9/view",
   },
 
 
@@ -229,7 +249,58 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/firasyazid/-Mobile-Project-nodejs",
+    source_code_link: "https://drive.google.com/file/d/1CbHWAINUdzsH45PVbsLmlVCabt-g3dqm/view",
+  },
+  
+  {
+    name: "Symptom-Based Disease Prediction Web Application with Machine Learning",
+    description:
+    "This web application utilizes a five machine learning models to predict diseases based on user-input symptoms. Users can input their symptoms, and the model will analyze them to provide potential disease predictions.",
+     tags: [
+      {
+        name: "Python",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Flask",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Google Colab",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Machine Learning",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tesla,
+    source_code_link: "https://drive.google.com/file/d/1CZZeao5r9RThe1XbSUEsAZc0bD_vsz3U/view?usp=sharing",
+  },
+  {
+    name: "Mobile Car Rental Application",
+    description:
+    "A mobile car rental application using React Native and Node.js. The application allows users to search, book, and manage car rentals in real-time. It includes geolocation features, notifications, and an intuitive user interface for an optimal user experience.",
+     tags: [
+      {
+        name: "react native",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "node js",
+        color: "green-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Figma",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: redux,
+    source_code_link: "https://drive.google.com/file/d/1Eg376QpWflGgiH3HDVtAmu4scnaP70Ou/view",
   },
 ];
 
