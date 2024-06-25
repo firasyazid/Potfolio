@@ -139,7 +139,7 @@ const experiences = [
     ],
   },
   {
-    title: "Intership MEAN Stack developer",
+    title: "Internship MEAN Stack developer",
     company_name: "Parhelion",
     icon: starbucks,
     iconBg: "#E6DEDD",
@@ -151,7 +151,7 @@ const experiences = [
      ],
   },
   {
-    title: "Intership MERN Stack Developer",
+    title: "Internship MERN Stack Developer",
     company_name: "After Code",
     icon: shopify,
     iconBg: "#383E56",
