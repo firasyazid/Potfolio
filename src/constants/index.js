@@ -106,6 +106,20 @@ const technologies = [
 
 const experiences = [
 
+ 
+  {
+    title: "Part-Time Web & Mobile Developer ",
+    company_name: "Parhelion",
+    icon: starbucks,
+    iconBg: "#383E56",
+    date: "September 2022 - Present",
+    points: [
+      "Developing and maintaining Mobile applications using React native , node js and other related technologies.",
+      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Dockerizing the applications, including setting up pipelines and other configurations using Docker."
+
+    ],
+  },
   {
     title: "Internship (End of study) | Software Engineer, Full Stack Web/Mobile Application Developer & ML ",
     company_name: "B2M-IT",
@@ -122,19 +136,6 @@ const experiences = [
 
 
 
-
-    ],
-  },
-  {
-    title: "Part-Time Web & Mobile Developer ",
-    company_name: "Parhelion",
-    icon: starbucks,
-    iconBg: "#383E56",
-    date: "September 2022 - Present",
-    points: [
-      "Developing and maintaining Mobile applications using React native , node js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Dockerizing the applications, including setting up pipelines and other configurations using Docker."
 
     ],
   },
