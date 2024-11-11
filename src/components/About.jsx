@@ -50,7 +50,7 @@ const About = () => {
 
 I'm an enthusiastic software developer with 
 expertise in TypeScript, JavaScript, and JavaScript libraries like React, Node.js,
- and Angular. With two years of experience as a web and mobile developer in a part-time role, and a 
+ and Angular. With two years of experience as a web and mobile developer, and a 
  diploma in Software Engineering from ESPRIT, I'm a quick learner with a keen interest in AI-driven solutions. 
  I collaborate closely with clients to create efficient, scalable, and user-friendly
   solutions that solve real-world problems. Let's work together to bring your ideas to life!

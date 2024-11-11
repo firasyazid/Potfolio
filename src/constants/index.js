@@ -108,13 +108,13 @@ const experiences = [
 
  
   {
-    title: "Part-Time Web & Mobile Developer ",
+    title: "Web & Mobile Developer ",
     company_name: "Parhelion",
     icon: starbucks,
     iconBg: "#383E56",
     date: "September 2022 - Present",
     points: [
-      "Developing and maintaining Mobile applications using React native , node js and other related technologies.",
+      "Developing and maintaining Web & Mobile applications using React native , node js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Dockerizing the applications, including setting up pipelines and other configurations using Docker."
 
@@ -171,6 +171,38 @@ const testimonials = [
 ];
 
 const projects = [
+
+
+  {
+    name: "Intelligent Health Mobile Application",
+    description:
+    "Intelligent Health is a React Native mobile app that connects users with health specialists for remote consultations. The app includes a dashboard for specialists to manage appointments, view patient data, and more. The app also features a machine learning-based disease prediction system.",
+      tags: [
+      {
+        name: "react native",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "green-text-gradient",
+      },
+      {
+        name: "node js ",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Figma",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Flask",
+        color: "pink-text-gradient",
+      }
+      
+    ],
+    image: tailwind,
+    source_code_link: "https://drive.google.com/file/d/1Ini_6xoSRkzkTYqaX9skz-ttQpFW5RTS/view",
+  },
   {
     name: "Delta Cuisine Application",
     description:
