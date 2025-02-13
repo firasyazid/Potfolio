@@ -21,8 +21,8 @@ import {
   shopify,
   carrent,
   jobit,
-  tripguide,
-  threejs,
+  tripguide, ecom,
+  pilate,
 } from "../assets";
 
 export const navLinks = [
@@ -46,7 +46,7 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Mobile Developer",
     icon: mobile,
   },
   {
@@ -54,7 +54,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Mobile Developer",
+    title: "Machine Learning Developer",
     icon: creator,
   },
 ];
@@ -231,34 +231,59 @@ const projects = [
 
 
   {
-    name: "E-commerce web application",
+    name: "E-Commerce Web Application",
     description:
-
-    "Angular and Node.js power our e-commerce website and dashboard, providing a seamless user interface and robust backend for secure transactions, authentication, and data management.",
+      "A fully functional e-commerce web application built with Next.js, allowing users to browse products, add them to their cart, and proceed to checkout. The app features user authentication, payment integration, and a responsive design optimized for mobile and desktop views. It includes real-time inventory tracking and an admin panel for managing products and orders.",
     tags: [
       {
-        name: "angular",
+        name: "next js",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "react",
         color: "green-text-gradient",
-      },
-      {
-        name: "node js",
-        color: "pink-text-gradient",
       },
       {
         name: "mongodb",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "stripe",
+        color: "yellow-text-gradient",
+      },
+    ],
+    image: ecom,  
+    source_code_link: "https://drive.google.com/file/d/1mZ82Q2pn90PX4dtcj5cduOvFS5j8yf69/view?usp=sharing",  
+  },
+  
+ 
+
+  {
+    name: "Pilates Mobile Application",
+    description:
+    "A mobile application for Pilates enthusiasts, offering personalized workout routines based on user goals and fitness levels. The app includes exercise tutorials, progress tracking, online reservations for classes, and subscription-based access to premium content.",
+    tags: [
+      {
+        name: "react native",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "node js",
         color: "green-text-gradient",
       },
-      
+      {
+        name: "mongodb",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "fitness",
+        color: "orange-text-gradient",
+      },
     ],
-    image: jobit,
-    source_code_link: "https://drive.google.com/file/d/1j-lSPOy7a6qyqEHi_oxeLQiB3iF64so9/view",
+    image: pilate, 
+    source_code_link: "https://drive.google.com/file/d/19RV5FGh5Qqu7cK3O3gnVucKp18OiunRM/view?usp=sharing",  
   },
-
-
+  
   {
     name: "Ilo9 Mobile Application",
     description:
@@ -334,6 +359,34 @@ const projects = [
     ],
     image: redux,
     source_code_link: "https://drive.google.com/file/d/1Eg376QpWflGgiH3HDVtAmu4scnaP70Ou/view",
+  },
+
+  {
+    name: "E-commerce web application",
+    description:
+
+    "Angular and Node.js power our e-commerce website and dashboard, providing a seamless user interface and robust backend for secure transactions, authentication, and data management.",
+    tags: [
+      {
+        name: "angular",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "restapi",
+        color: "green-text-gradient",
+      },
+      {
+        name: "node js",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "green-text-gradient",
+      },
+      
+    ],
+    image: jobit,
+    source_code_link: "https://drive.google.com/file/d/1j-lSPOy7a6qyqEHi_oxeLQiB3iF64so9/view",
   },
 ];
 

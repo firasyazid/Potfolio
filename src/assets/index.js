@@ -29,6 +29,8 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import pilate from "./pilate.jpg";
+import ecom from "./ecom.png";
 
 export {
   logo,
@@ -36,7 +38,9 @@ export {
   creator,
   mobile,
   web,
+  ecom,
   github,
+  pilate,
   menu,
   close,
   css,
